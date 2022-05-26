@@ -11,9 +11,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/milenaksk">
+  <a href="https://github.com/AllRez44">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllRez44&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllREz44&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllRez44&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
