@@ -1,6 +1,7 @@
 <header justify-content="center"> 
   <img align="center" src="./I'M ALLAN.png">
 </header>
+<img src="./allrezende.png" width="300px">
 <div>
   <hr>
   <p align="center">I'm a Front-End Developer 🧑‍💻 From Rio De Janeiro 🏖️</p>
