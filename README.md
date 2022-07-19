@@ -41,9 +41,10 @@
 <div align="center">
   <h3><b><samp>Check out my Repositories</samp></b></h3>
   <a href="https://github.com/AllRez44/project-danvo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=project-danvo" /></a>
-  <a href="https://github.com/AllRez44/project-Restaurant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=project-Restaurant" /></a>
+  <a href="https://github.com/hinname/project-Restaurant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hinname&repo=project-Restaurant" /></a>
   <a href="https://github.com/AllRez44/beauty-studio-project "><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=beauty-studio-project" /></a>
  <a href="https://github.com/AllRez44/cracha-nlw-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=cracha-nlw-2021" /></a>
+ <a href="https://github.com/hinname/Op_LandingPages"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hinname&repo=Op_LandingPages" /></a>
 </div>
 
 <!--
