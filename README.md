@@ -21,15 +21,18 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div>
 
 <br>
+
+#### <div align="center"> Ways to Reach Out to Me </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/allan-resende-997757118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -39,7 +42,9 @@
 <hr>
 
 <div align="center">
-  <h3><b><samp>Check out my Repositories</samp></b></h3>
+
+### <b><samp>Check out my Repositories</samp></b>
+
   <a href="https://github.com/AllRez44/project-danvo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=project-danvo" /></a>
   <a href="https://github.com/hinname/project-Restaurant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hinname&repo=project-Restaurant" /></a>
   <a href="https://github.com/AllRez44/beauty-studio-project "><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=beauty-studio-project" /></a>
