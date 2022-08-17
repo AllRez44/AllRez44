@@ -1,15 +1,12 @@
-<header justify-content="center"> 
-  <img align="center" src="./I'M ALLAN.png">
-</header>
+# <img align="center" src="./I'M ALLAN.png">
 <img src="./allrezende.png" width="300px">
 <div>
   <hr>
-  <p align="center">I'm a Front-End Developer 🧑‍💻 From Rio De Janeiro 🏖️</p>
-  <hr>
- <br>
-
+  <p align="center">I'm a Front-End Developer 🧑‍💻 From Rio De Janeiro 🏖️ </p>
 </div>
 
+<hr>
+<br>
 
 <div align="center">
   <a href="https://github.com/AllRez44">
@@ -30,9 +27,9 @@
   <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div>
 
-<br>
+<hr>
 
-#### <div align="center"> Ways to Reach Out to Me </div>
+## <div align="center"> Ways to Reach Out to Me </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/allan-resende-997757118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -43,7 +40,7 @@
 
 <div align="center">
 
-### <b><samp>Check out my Repositories</samp></b>
+## <b><samp>Check out my Repositories</samp></b>
 
   <a href="https://github.com/AllRez44/project-danvo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=project-danvo" /></a>
   <a href="https://github.com/hinname/project-Restaurant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hinname&repo=project-Restaurant" /></a>
@@ -54,6 +51,11 @@
   <a href="https://github.com/hinname/Op_LandingPages"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hinname&repo=Op_LandingPages" /></a>
  <a href="https://github.com/AllRez44/cracha-nlw-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=cracha-nlw-2021" /></a>
 </div>
+
+## My Code Wars Stats - Programming Logic Training
+
+![Codewars](https://github.r2v.ch/codewars?user=AllRez44&stroke=COLOR)
+
 
 <!--
 **AllRez44/AllRez44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
