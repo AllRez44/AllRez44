@@ -1,11 +1,20 @@
-# <img align="center" src="./I'M ALLAN.png">
-<img src="./allrezende.png" width="300px">
+# <img align="center" src="./I'M ALLAN.png"/>
+
 <div>
-  <hr>
-  <p align="center">I'm a Front-End Developer 🧑‍💻 From Rio De Janeiro 🏖️ </p>
+  <img src="./allrezende.png" width="400" alt="Allan Resende Avatar"/> 
+  <a href="https://app.daily.dev/theVengeance_22"> <img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=qrh" width="300" align="right" alt="Allan Resende's Dev Card"/> </a>
+</div>
+
+<br>
+
+<hr>
+
+<div>
+  <p>I'm a Front-End Developer 🧑‍💻 From Rio De Janeiro 🏖️ </p>
 </div>
 
 <hr>
+
 <br>
 
 <div align="center">
