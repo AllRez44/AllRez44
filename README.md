@@ -64,7 +64,7 @@
 
 ## My Code Wars Stats - Programming Logic Training
 
-![Codewars](https://github.r2v.ch/codewars?user=AllRez44&stroke=COLOR)
+![Codewars](https://www.codewars.com/users/AllRez44/badges/large)
 
 
 <!--
