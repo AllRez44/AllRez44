@@ -10,7 +10,7 @@
 <hr>
 
 <div>
-  <p>I'm a Front-End Developer 🧑‍💻 From Rio De Janeiro 🏖️ </p>
+  <p>I'm a Full-Stack Web Developer 🧑‍💻 From Rio De Janeiro 🏖️ </p>
 </div>
 
 <hr>
