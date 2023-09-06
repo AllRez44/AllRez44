@@ -1,7 +1,7 @@
 # <img align="center" src="./I'M ALLAN.png"/>
 
 <div>
-  <a href="https://app.daily.dev/theVengeance_22"> <img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=qrh" width="300" align="right" alt="Allan Resende's Dev Card"/> </a>
+  <a href="https://app.daily.dev/theVengeance_22"> <img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=qrh" width="250" align="right" alt="Allan Resende's Dev Card"/> </a>
 </div>
 
 <br>
