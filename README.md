@@ -60,7 +60,7 @@
 
 ![Codewars](https://www.codewars.com/users/AllRez44/badges/large)
 
-<a href="https://app.daily.dev/thevengeance_22"><img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=ktb" width="200" alt="Allan Resende's Dev Card"/></a>
+<a href="https://app.daily.dev/thevengeance_22"><img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=ktb" width="300" alt="Allan Resende's Dev Card"/></a>
 
 <!--
 **AllRez44/AllRez44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
