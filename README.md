@@ -1,9 +1,4 @@
-# <img align="center" src="./I'M ALLAN.png"/>
-
-<div>
-  <a href="https://app.daily.dev/theVengeance_22"> <img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=qrh" width="0" align="right" alt="Allan Resende's Dev Card"/> </a>
-</div>
-
+<img align="center" src="./I'M ALLAN.png"/>
 <br>
 
 <hr>
@@ -61,10 +56,11 @@
  <a href="https://github.com/AllRez44/cracha-nlw-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=allrez44&repo=cracha-nlw-2021" /></a>
 </div>
 
-## My Code Wars Stats - Programming Logic Training
+## My Code Wars & Daily Dev Stats - (Programming Logic Training and Article Reading)
 
 ![Codewars](https://www.codewars.com/users/AllRez44/badges/large)
 
+<a href="https://app.daily.dev/thevengeance_22"><img src="https://api.daily.dev/devcards/c9ba4fe659ee4464810bd2a7cc365785.png?r=ktb" width="200" alt="Allan Resende's Dev Card"/></a>
 
 <!--
 **AllRez44/AllRez44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
